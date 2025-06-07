@@ -1,6 +1,6 @@
 # Usage:
-    # This function can be bound to key shortcuts (like Ctrl+A for increase and Ctrl+X for decrease) in fish shell to modify numbers quickly under the cursor.
-    # Key bindings for increasing and decreasing numbers in insert/vi mode mode.
+    # This function can be bound to key shortcuts (like Ctrl-A for increase and Ctrl-X for decrease) in fish shell to modify numbers quickly under the cursor.
+    # Key bindings for increasing and decreasing numbers in insert/vi mode.
     # bind -M insert \ca '__fish_inc_dec_number_under_cursor increase'
     # bind -M insert \cx '__fish_inc_dec_number_under_cursor decrease'
 
